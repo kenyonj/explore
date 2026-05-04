@@ -8,6 +8,7 @@ items:
  - gfernandf/agent-skills
  - huggingface/transformers
  - kenyonj/zoney
+ - kenyonj/airbridge
 display_name: AI Agents
 created_by: gfernandf
 ---
