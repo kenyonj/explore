@@ -6,6 +6,8 @@ items:
  - microsoft/semantic-kernel
  - modelcontextprotocol/servers
  - gfernandf/agent-skills
+ - huggingface/transformers
+ - kenyonj/zoney
 display_name: AI Agents
 created_by: gfernandf
 ---
